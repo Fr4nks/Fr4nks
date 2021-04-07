@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fr4nks
-- 👀 I’m interested in Arduino prodjects and electronics. 
+- 👀 I’m interested in Arduino projects and electronics. 
 - 🌱 I’m currently learning angular, python (flask)...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
